@@ -52,7 +52,7 @@
   - Natalino Esteves
   - Lais Jarlita
   - Rodrigo Ternis
-  - Luiz Felipe
+  - Felipe Antunes
  <br>
 <div align="center">      
  
