@@ -58,7 +58,7 @@
  
   <img height="350px" align="center" src="https://i.imgur.com/5qK5nC4.jpg">
   <br></br>
-  <img height="350px" align="center" src="https://i.imgur.com/U5tuclH.png">
+ 
  </div>
 <br> 
 <br>
